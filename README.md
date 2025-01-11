@@ -1,5 +1,5 @@
 # Lambda Function Loader
-(Github link here)
+https://github.com/T-aian/lambda-function-loader/tree/main
 
 ## Team
 
